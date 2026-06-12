@@ -62,9 +62,7 @@ class Keerthika:
 
 📊 Passionate about Data Analytics, Machine Learning and AI
 
-💻 Experienced in Python, TensorFlow, Power BI and Full Stack Development
-
-🔬 Published Research Paper on AI-based IoT Microplastic Detection
+💻 Experienced in Python,Power BI and Full Stack Development
 
 🌱 Currently exploring Generative AI and Advanced Machine Learning
 
