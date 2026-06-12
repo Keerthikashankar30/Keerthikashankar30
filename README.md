@@ -180,10 +180,7 @@ class Keerthika:
 🏅 Published Research Paper:
 **AI-based IoT Microplastic Detection using Turbidity and Conductivity Patterns**
 
-🏅 Full Stack Web Development Internship
-
-🏅 Artificial Intelligence & Data Science Projects
-
+🏅 NPTEL Certification in natural language processing with a score of 71%
 ---
 
 # 📚 Currently Learning
